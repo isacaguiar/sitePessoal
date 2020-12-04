@@ -1,0 +1,61 @@
+[{
+    "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/fiplan.jpg",
+    "projeto" : "FIPLAN",
+    "tecnologias": "Java, Spring, Struts, Hibernate, VUE, Ajax, JQuery, JS, HTML, CSS, Ant e Oracle.",
+    "links": ["http://www.prodeb.gov.br/servicos/FIPLAN.aspx"]
+ },
+ {
+   "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/sgtlex.jpg",
+   "projeto" : "SGTLEX",
+   "tecnologias": "Java, Spring, React, TS, Bootstrap, HTML, CSS e Oracle.",
+   "links": ["https://lextax.com.br/sgtlex/", "https://novemax.com.br/lex/"]
+},
+{
+  "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/fenix.jpg",
+  "projeto" : "FENIX",
+  "tecnologias": "Java, SOAP, Rest, Maven e XML.",
+  "links": []
+},
+{
+   "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/apkomp.jpg",
+   "projeto" : "APKomp",
+   "tecnologias": "PHP, Bootstrap, HTML, CSS JQuery.",
+   "links": ["http://apkomp.com.br/"]
+},
+{
+   "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/histocito.jpg",
+   "projeto" : "Histocito",
+   "tecnologias": "PHP, Bootstrap, Jquery e MySQL.",
+   "links": ["http://isacaguiar.com.br/histocito", "http://histocito.com.br/"]
+},
+{
+   "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/delpira.jpg",
+   "projeto" : "Del Pirapora",
+   "tecnologias": "Drupal 8.",
+   "links": ["https://www.marinha.mil.br/om/delegacia-fluvial-de-pirapora"]
+},
+{
+   "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/delpira_intranet.jpg",
+   "projeto" : "Intranet Del Pirapora",
+   "tecnologias": "PHP, Bootstrap, HTML, CSS, JQuery e MySQL.",
+   "links": []
+},
+{
+   "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/quadro_presenca.jpg",
+   "projeto" : "Quadro de Presença",
+   "tecnologias": "PHP, Bootstrap, HTML, CSS, JQuery e MySQL.",
+   "links": []
+},
+{
+   "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/vivo.jpg",
+   "projeto" : "Portal Corporativo",
+   "tecnologias": "Java, SOAP, Spring, JSF, Struts, Maven e Oracle.",
+   "links": []
+},
+{
+   "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/sigip.jpg",
+   "projeto" : "SIGIP",
+   "tecnologias": "Java, Struts, Hibernate, Ant e SQLServer.",
+   "links": ["https://www.delegaciadigital.ssp.ba.gov.br/"]
+}]
+
